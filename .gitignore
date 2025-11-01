@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+
+# Virtual environments
+.env
+.venv
+venv/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# (Optional) Editor settings are often tracked; remove .vscode ignore to allow committing settings
